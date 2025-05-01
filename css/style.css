@@ -5,6 +5,9 @@
 html{
     scroll-behavior: smooth;
 }
+.textcrl{
+    font-size: 13px;
+}
 .watch{
     background-image:linear-gradient(to left,rgb(113, 231, 45),rgb(141, 233, 56));
     height:100px;
@@ -29,7 +32,7 @@ html{
     outline: none;
 }
 .card img{
-    height: 200px;
+    height: 250px;
 }
 .contact{
     min-height:250px ;
