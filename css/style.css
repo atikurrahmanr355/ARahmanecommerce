@@ -2,6 +2,9 @@
     margin:0px;
     padding: 0px;
 }
+html{
+    scroll-behavior: smooth;
+}
 .watch{
     background-image:linear-gradient(to left,rgb(113, 231, 45),rgb(141, 233, 56));
     height:100px;
