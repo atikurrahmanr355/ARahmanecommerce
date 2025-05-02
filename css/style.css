@@ -27,9 +27,9 @@ html{
     font-size: 25px;
 }
 .card{
-    box-shadow: 3px 5px 10px black;
+    box-shadow: 3px 3px 10px rgb(80, 70, 70);
     border: none;
-    outline: none;
+    border-radius: 10px;
 }
 .card img{
     height: 250px;
